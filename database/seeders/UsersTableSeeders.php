@@ -17,10 +17,11 @@ class UsersTableSeeders extends Seeder
             'name' => 'Nierimam',
             'email' => 'nierimam@gmail.com',
             'address' => 'gunung soputan',
-            'date birth' => '2001-04-13',
-            'phone number' => '082144723035',
-            'role' => 'customer',
+            'date_birth' => '2001-04-13',
+            'phone_number' => '082144723035',
+            'role' => 'admin',
             'password' => Hash::make('123456'),
         ]);
+
     }
 }
