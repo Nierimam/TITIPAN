@@ -68,6 +68,16 @@ php artisan key:generate
 php artisan migrate
 ```
 
+- Seeders Users
+```bash
+php artisan db:seed --class=UsersTableSeeders
+```
+
+- Seeders Layanan
+```bash
+php artisan db:seed --class=LayananTableSeeders
+```
+
 - Link Storage
 
 ```bash
