@@ -34,7 +34,7 @@ The repository is structured as follows:
 - Clone project from github
 
 ```bash
-git clone https://github.com/SI-RPL-2023/SI4402_228_TITIPAN.git 
+git clone https://github.com/Nierimam/TITIPAN.git 
 ```
 
 - Copy the .env.example file to .env
